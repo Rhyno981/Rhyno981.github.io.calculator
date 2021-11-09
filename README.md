@@ -1,2 +1,2 @@
 # Rhyno981.github.io.calculator
-West-Mec coding year 1
+West-Mec coding year 1 Calculator
