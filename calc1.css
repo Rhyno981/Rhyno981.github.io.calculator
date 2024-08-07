@@ -1,5 +1,5 @@
 body{
-    background-image: -webkit-linear-gradient(45deg, slategray 50%, white 50%);
+    background-color:#333e52;
     min-height:100vh;
 }
 .calc-button  {
